@@ -1,0 +1,19 @@
+{
+  "name": "node-cli-app-guides",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview"
+  },
+  "devDependencies": {
+    "@nuxt-themes/docus": "^1.9.9",
+    "nuxt": "^3.2.3",
+    "typescript": "5.0.0-beta"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
