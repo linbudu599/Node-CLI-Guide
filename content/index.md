@@ -18,10 +18,16 @@ secondary:
 ---
 
 #title
-NodeJs 命令行开发
+NodeJs CLI 应用开发入门
 
 #description
-免费，开源，跟得上时代的命令行开发教程
+by 林不渡
 
+#extra
+  ::list
+  - CLI 相关知识基础：shebang、bin、本地调试
+  - 8 条命令行应用的最佳实践
+  - 框架与工具库收集
+  ::
 
 ::
