@@ -11,7 +11,7 @@
   "devDependencies": {
     "@nuxt-themes/docus": "^1.9.9",
     "nuxt": "^3.2.3",
-    "typescript": "5.0.0-beta"
+    "typescript": "5.0.2"
   },
   "engines": {
     "node": ">=18"
